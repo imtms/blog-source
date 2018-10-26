@@ -54,24 +54,28 @@ date: 2018-10-26 13:45:21
 
 装上键帽（有钱了一定买套好看的键帽）
 
-![键帽][12]
+![键帽][13]
 
 一套用POKER的原料和GH60的主板混合的手工制作的60%键盘就重生了。按键感觉完美。
+
+最后上一张工作台的照片
+
+![桌面][14]
 
 接下来就是刷配列了，其实很简单有空再写。
 
 
-  [1]: https://cdn.tms.qnxg.net/article/20181026/gh60/1.jpg
-  [2]: https://cdn.tms.qnxg.net/article/20181026/gh60/2.jpg
-  [3]: https://cdn.tms.qnxg.net/article/20181026/gh60/3.jpg
-  [4]: https://cdn.tms.qnxg.net/article/20181026/gh60/4.jpg
-  [5]: https://cdn.tms.qnxg.net/article/20181026/gh60/5.jpg
-  [6]: https://cdn.tms.qnxg.net/article/20181026/gh60/6.jpg
-  [7]: https://cdn.tms.qnxg.net/article/20181026/gh60/7.jpg
-  [8]: https://cdn.tms.qnxg.net/article/20181026/gh60/8.jpg
-  [9]: https://cdn.tms.qnxg.net/article/20181026/gh60/9.jpg
-  [10]: https://cdn.tms.qnxg.net/article/20181026/gh60/10.jpg
-  [11]: https://cdn.tms.qnxg.net/article/20181026/gh60/11.jpg
-  [12]: https://cdn.tms.qnxg.net/article/20181026/gh60/12.jpg
-  [13]: https://cdn.tms.qnxg.net/article/20181026/gh60/13.jpg
-  [14]: https://cdn.tms.qnxg.net/article/20181026/gh60/14.jpg
+  [1]: https://cdn.tms.qnxg.net/article/20181026/gh60/1.jpg!500
+  [2]: https://cdn.tms.qnxg.net/article/20181026/gh60/2.jpg!500
+  [3]: https://cdn.tms.qnxg.net/article/20181026/gh60/3.jpg!500
+  [4]: https://cdn.tms.qnxg.net/article/20181026/gh60/4.jpg!500
+  [5]: https://cdn.tms.qnxg.net/article/20181026/gh60/5.jpg!500
+  [6]: https://cdn.tms.qnxg.net/article/20181026/gh60/6.jpg!500
+  [7]: https://cdn.tms.qnxg.net/article/20181026/gh60/7.jpg!500
+  [8]: https://cdn.tms.qnxg.net/article/20181026/gh60/8.jpg!500
+  [9]: https://cdn.tms.qnxg.net/article/20181026/gh60/9.jpg!500
+  [10]: https://cdn.tms.qnxg.net/article/20181026/gh60/10.jpg!500
+  [11]: https://cdn.tms.qnxg.net/article/20181026/gh60/11.jpg!500
+  [12]: https://cdn.tms.qnxg.net/article/20181026/gh60/12.jpg!500
+  [13]: https://cdn.tms.qnxg.net/article/20181026/gh60/13.jpg!500
+  [14]: https://cdn.tms.qnxg.net/article/20181026/gh60/14.jpg!500
