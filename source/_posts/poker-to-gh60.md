@@ -64,14 +64,14 @@ date: 2018-10-26 13:45:21
   [1]: https://cdn.tms.qnxg.net/article/20181026/gh60/1.jpg
   [2]: https://cdn.tms.qnxg.net/article/20181026/gh60/2.jpg
   [3]: https://cdn.tms.qnxg.net/article/20181026/gh60/3.jpg
-  [4]: https://cdn.tms.qnxg.net/article/20181026/gh60/4.png
-  [5]: https://cdn.tms.qnxg.net/article/20181026/gh60/5.png
-  [6]: https://cdn.tms.qnxg.net/article/20181026/gh60/6.png
-  [7]: https://cdn.tms.qnxg.net/article/20181026/gh60/7.png
-  [8]: https://cdn.tms.qnxg.net/article/20181026/gh60/8.png
-  [9]: https://cdn.tms.qnxg.net/article/20181026/gh60/9.png
-  [10]: https://cdn.tms.qnxg.net/article/20181026/gh60/10.png
-  [11]: https://cdn.tms.qnxg.net/article/20181026/gh60/11.png
-  [12]: https://cdn.tms.qnxg.net/article/20181026/gh60/12.png
-  [13]: https://cdn.tms.qnxg.net/article/20181026/gh60/13.png
-  [14]: https://cdn.tms.qnxg.net/article/20181026/gh60/14.png
+  [4]: https://cdn.tms.qnxg.net/article/20181026/gh60/4.jpg
+  [5]: https://cdn.tms.qnxg.net/article/20181026/gh60/5.jpg
+  [6]: https://cdn.tms.qnxg.net/article/20181026/gh60/6.jpg
+  [7]: https://cdn.tms.qnxg.net/article/20181026/gh60/7.jpg
+  [8]: https://cdn.tms.qnxg.net/article/20181026/gh60/8.jpg
+  [9]: https://cdn.tms.qnxg.net/article/20181026/gh60/9.jpg
+  [10]: https://cdn.tms.qnxg.net/article/20181026/gh60/10.jpg
+  [11]: https://cdn.tms.qnxg.net/article/20181026/gh60/11.jpg
+  [12]: https://cdn.tms.qnxg.net/article/20181026/gh60/12.jpg
+  [13]: https://cdn.tms.qnxg.net/article/20181026/gh60/13.jpg
+  [14]: https://cdn.tms.qnxg.net/article/20181026/gh60/14.jpg
