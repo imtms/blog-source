@@ -1,0 +1,77 @@
+title: 用POKER改造的年轻人的第一把GH60
+categories: By TMs
+tags: [hardware]
+date: 2018-10-26 13:45:21
+---
+
+有一个Poker升级版的键盘，因为不支持自定义键位被我强行刷机刷成砖了。拆开看过是nuc123sd4ae0的MCU。
+
+
+![MCU][1]
+
+去网上查了各种资料，试过了各种方法，根据nuvoton官方的文档，ISP模式拉低管脚电位可以进入，试过以后也进不去，强行用Jlink调试SWD也不行。ikbc这块做的太差了，可能这种量产的键盘就是故意让你无法刷固件吧。
+
+![调试][2]
+----------
+既然都这样了，只好换主板。因为想使用60%键盘，又有很强的自定义配列需求，只好做一把GH60来用，关于GH60请自行查阅资料。
+
+在淘宝上买了一块修改版的XD64板子，因为是熟人推荐，看起来也还不错。只需148块钱，支持60-64键的多种轴位排布和几乎兼容90%的外壳，比satan版本的GH60良心多了。
+
+轴还是采用之前的POKER的茶轴，那么第一步就是拆轴了。把轴从之前的POKER主板上拆下来。这可是个艰巨的工作。一个一个引脚用电烙铁加热以后用吸锡器吸走焊锡。然后拔下来。整整搞了4个小时。
+
+![拆完以后的样子][3]
+
+等了两天，新主板终于到了。先打开看一下。为了赶潮流买了type-c的接口版本。
+
+![正面][4]
+![背面][5]
+
+新主板到手当然是先上电用镊子挨个测试轴位的触发是否正常。
+
+![测试][8]
+
+接下来就是准备焊接轴上去了，来一张全部原材料的图。
+
+![原材料][6]
+
+茶轴特写。cherry原厂的轴质量杠杠的。
+
+![轴][7]
+
+轴一个一个插到定位板上。
+
+![定位板][9]
+
+又经过一个小时的焊接，焊接完成以后的正面和背面。
+
+![正面][10]
+![背面][11]
+
+好久不焊东西，手生，焊点也没有那么完美了。不过没有虚焊，焊接质量还是可以保证的。
+
+然后装上外壳
+![外壳][12]
+
+装上键帽（有钱了一定买套好看的键帽）
+
+![键帽][12]
+
+一套用POKER的原料和GH60的主板混合的手工制作的60%键盘就重生了。按键感觉完美。
+
+接下来就是刷配列了，其实很简单有空再写。
+
+
+  [1]: https://cdn.tms.qnxg.net/article/20181026/gh60/1.jpg
+  [2]: https://cdn.tms.qnxg.net/article/20181026/gh60/2.jpg
+  [3]: https://cdn.tms.qnxg.net/article/20181026/gh60/3.jpg
+  [4]: https://cdn.tms.qnxg.net/article/20181026/gh60/4.png
+  [5]: https://cdn.tms.qnxg.net/article/20181026/gh60/5.png
+  [6]: https://cdn.tms.qnxg.net/article/20181026/gh60/6.png
+  [7]: https://cdn.tms.qnxg.net/article/20181026/gh60/7.png
+  [8]: https://cdn.tms.qnxg.net/article/20181026/gh60/8.png
+  [9]: https://cdn.tms.qnxg.net/article/20181026/gh60/9.png
+  [10]: https://cdn.tms.qnxg.net/article/20181026/gh60/10.png
+  [11]: https://cdn.tms.qnxg.net/article/20181026/gh60/11.png
+  [12]: https://cdn.tms.qnxg.net/article/20181026/gh60/12.png
+  [13]: https://cdn.tms.qnxg.net/article/20181026/gh60/13.png
+  [14]: https://cdn.tms.qnxg.net/article/20181026/gh60/14.png
