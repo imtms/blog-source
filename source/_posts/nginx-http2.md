@@ -38,7 +38,7 @@ Nginx终于原生支持HTTP/2了。早就听闻HTTP/2的一大堆优秀的新特
 [View the HTTP/SPDY/HTTP2 Protocol in Google Chrome][4]
 
 
-  [1]: https://dn-tms.qbox.me/imgs/1.png
-  [2]: https://dn-tms.qbox.me/imgs/2.png
+  [1]: https://cdn.tms.qnxg.net/article/20181026/imgs/1.png
+  [2]: https://cdn.tms.qnxg.net/article/20181026/imgs/2.png
   [3]: http://nginx.org/en/docs/http/ngx_http_v2_module.html
   [4]: https://ma.ttias.be/view-http-spdy-http2-protocol-google-chrome/

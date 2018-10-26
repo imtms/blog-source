@@ -34,4 +34,4 @@ date: 2017-02-22 16:45:21
   [1]: http://www.right.com.cn/forum/thread-204435-1-1.html
   [2]: https://lede-project.org/
   [3]: https://downloads.lede-project.org/releases/17.01.0-rc2/targets/ramips/mt7620/lede-17.01.0-rc2-r3131-42f3c1f-ramips-mt7620-psg1218-squashfs-sysupgrade.bin
-  [4]: https://dn-tms.qbox.me/textimg/lede.png
+  [4]: https://cdn.tms.qnxg.net/article/20181026/textimg/lede.png

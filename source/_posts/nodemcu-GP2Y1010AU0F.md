@@ -18,7 +18,7 @@ GP2Y1010AU0F引脚连接
 
 其中需要加150ohm电阻和220uF电容，连接方式如下图中红框所示：
 
-![connect](https://dn-tms.qbox.me/nodemcu/connect.png)
+![connect](https://cdn.tms.qnxg.net/article/20181026/nodemcu/connect.png)
 
 可以直接使用NodeMCU的adc即A0接口进行采样。先对GPIO 5拉低产生一个采样脉冲，读取A0的adc数据，即为输出电压。转换后可得粉尘浓度。代码如下
 
