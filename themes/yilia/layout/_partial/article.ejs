@@ -19,9 +19,9 @@
       <% } %>
 
       <%
-        var sUrl = url.replace(/index\.html$/, '');
-        sUrl = /^(https:|http:)\/\//.test(sUrl) ? sUrl : 'https:' + sUrl;
+        var sUrl = 'https:' + url.replace(/index\.html$/, '');
       %>
+      <% if (!index){ %>
       <div style="background-color: #eaeaea;margin-top: 2em;border-left: 3px solid #ff1700;padding: .5em 1em;">
         <strong>本文作者：</strong>
         TMs
@@ -38,6 +38,7 @@
           <a rel="license" href="<%= theme.licensee_url%>"><img alt="知识共享许可协议" style="border-width:0" src="<%= theme.licensee_img%>"/></a>
         <% } %>
       </div>
+      <% } %>
     </div>
     <div class="article-info article-info-index">
       <%if(post.top){%>
