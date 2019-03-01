@@ -20,7 +20,7 @@
 
       <%
         var sUrl = url.replace(/index\.html$/, '');
-        sUrl = /^(http:|https:)\/\//.test(sUrl) ? 'https:' + sUrl : 'https:' + sUrl;
+        sUrl = /^(http:|https:)\/\//.test(sUrl) ? sUrl : 'https:' + sUrl;
       %>
       <% if (!index){ %>
       <div style="background-color: #eaeaea;margin-top: 2em;border-left: 3px solid #ff1700;padding: .5em 1em;">
