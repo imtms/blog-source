@@ -67,3 +67,7 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
+declare_type: 2
+licensee_url: https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
+licensee_name: 'CC BY-NC-SA 3.0 CN'
+licensee_img: https://i.creativecommons.org/l/by-nc-sa/3.0/cn/88x31.png
