@@ -1,3 +1,4 @@
+---
 title: 写了个最简单的Redis访问统计和缓存命中统计
 categories: By TMs
 tags: [redis]

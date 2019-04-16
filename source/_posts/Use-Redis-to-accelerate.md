@@ -1,3 +1,4 @@
+---
 title: 利用Redis作为前端静态缓存加速网站访问
 categories: By TMs
 tags: [redis,html,php,server]

@@ -1,3 +1,4 @@
+---
 title: PHP连接MYSQL单例模式
 categories: By TMs
 tags: [mysql,php]

@@ -1,3 +1,4 @@
+---
 title: MYSQL主从复制大深坑
 categories: By TMs
 tags: [mysql]

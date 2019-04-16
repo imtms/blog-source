@@ -1,3 +1,4 @@
+---
 title: 使用Travis CI自动发布Hexo的文章
 categories: By TMs
 tags: [git]

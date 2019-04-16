@@ -1,3 +1,4 @@
+---
 title: Webmin 1.760需要的Net-SSLeay模块安装
 categories: By TMs
 tags: [server,webmin]

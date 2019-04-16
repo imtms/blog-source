@@ -1,3 +1,4 @@
+---
 title: CTO是有门槛的 我眼中真正优秀CTO应具备五大素质
 categories: By TMs
 tags: [tech]

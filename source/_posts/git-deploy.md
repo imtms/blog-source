@@ -1,3 +1,4 @@
+---
 title: 利用git自动部署网站文件
 categories: By TMs
 tags: [git]

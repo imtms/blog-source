@@ -1,3 +1,4 @@
+---
 title: 折腾斐讯K2刷LEDE
 categories: By TMs
 tags: [hardware]

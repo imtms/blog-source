@@ -1,3 +1,4 @@
+---
 title: Zabbix 监控windows 网卡流量（2008 64bit）
 categories: By TMs
 tags: [zabbix,server]

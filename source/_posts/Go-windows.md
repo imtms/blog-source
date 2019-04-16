@@ -1,3 +1,4 @@
+---
 title: Windows下的Go编译
 categories: By TMs
 tags: [go,server]

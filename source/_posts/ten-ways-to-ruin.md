@@ -1,3 +1,4 @@
+---
 title: 毁掉太阳系的十种方法
 categories: By TMs
 tags: [tech]

@@ -1,3 +1,4 @@
+---
 title: PHP命令行消息处理程序
 categories: By TMs
 tags: [redis,php]

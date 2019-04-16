@@ -1,3 +1,4 @@
+---
 title: windows下APACHE+PHP连接ORACLE的配置
 categories: By TMs
 tags: [oracle,php,server]

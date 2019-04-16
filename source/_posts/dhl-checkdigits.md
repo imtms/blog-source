@@ -1,3 +1,4 @@
+---
 title: DHL用自己的check digits规范把我坑了一下
 categories: By TMs
 tags: [php]

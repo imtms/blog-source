@@ -1,3 +1,4 @@
+---
 title: CentOS 下用的是lnmp 的包配置Nginx 下的CI伪静态
 categories: By TMs
 tags: [server,nginx]

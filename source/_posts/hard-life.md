@@ -1,3 +1,4 @@
+---
 title: 生活好艰难
 categories: By TMs
 tags: [tech]

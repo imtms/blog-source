@@ -1,3 +1,4 @@
+---
 title: PHP程序员最常犯的11个MySQL错误
 categories: By TMs
 tags: [mysql]

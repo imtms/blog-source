@@ -1,3 +1,4 @@
+---
 title: zabbix监控MYSQL主从复制
 categories: By TMs
 tags: [server,zabbix,mysql,linux]

@@ -1,3 +1,4 @@
+---
 title: AWS的EC2的一个小坑
 categories: By TMs
 tags: [server]

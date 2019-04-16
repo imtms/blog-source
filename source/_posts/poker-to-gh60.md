@@ -1,3 +1,4 @@
+---
 title: 用POKER改造的年轻人的第一把GH60
 categories: By TMs
 tags: [hardware]

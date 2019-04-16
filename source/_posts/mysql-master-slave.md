@@ -1,3 +1,4 @@
+---
 title: mysql主从配置
 categories: By TMs
 tags: [mysql]

@@ -1,3 +1,4 @@
+---
 title: 新玩具
 categories: By TMs
 tags: [server]

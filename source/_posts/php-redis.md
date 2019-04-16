@@ -1,3 +1,4 @@
+---
 title: PHP安装redis扩展模块
 categories: By TMs
 tags: [redis,php]
