@@ -63,5 +63,5 @@ ELK=Elasticsearch(数据库)+Logstash(Log收集处理)+Kibana(展示平台)
 ![效果][3]
 
   [1]: http://grokdebug.herokuapp.com/
-  [2]: https://cdn.tms.qnxg.net/article/20181026/textimg/5.png
-  [3]: https://cdn.tms.qnxg.net/article/20181026/textimg/6.png
+  [2]: https://cdn.tms.im/article/20181026/textimg/5.png
+  [3]: https://cdn.tms.im/article/20181026/textimg/6.png

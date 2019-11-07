@@ -65,8 +65,8 @@ date: 2016-06-06 09:57:00
 转自[21CTO][5]
 
 
-  [1]: https://cdn.tms.qnxg.net/article/20181026/textimg/1.jpg
-  [2]: https://cdn.tms.qnxg.net/article/20181026/textimg/2.jpg
-  [3]: https://cdn.tms.qnxg.net/article/20181026/textimg/3.jpg
-  [4]: https://cdn.tms.qnxg.net/article/20181026/textimg/4.jpg
+  [1]: https://cdn.tms.im/article/20181026/textimg/1.jpg
+  [2]: https://cdn.tms.im/article/20181026/textimg/2.jpg
+  [3]: https://cdn.tms.im/article/20181026/textimg/3.jpg
+  [4]: https://cdn.tms.im/article/20181026/textimg/4.jpg
   [5]: http://mp.weixin.qq.com/s?__biz=MjM5NTg2NTU0Ng==&mid=2656593642&idx=1&sn=7f6466bd3efcbaf1180882dc3252a253&scene=1&srcid=0606nkFnVkU61yJvAh17wnbD#wechat_redirect

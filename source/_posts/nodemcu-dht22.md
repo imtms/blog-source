@@ -86,4 +86,4 @@ json中的pass是为了服务器做简单的安全性校验用。
 效果参见http://tms.im/Mo/tms.php
 
 成品图
-![TH](https://cdn.tms.qnxg.net/article/20181026/nodemcu/wenshidu.jpg)
+![TH](https://cdn.tms.im/article/20181026/nodemcu/wenshidu.jpg)
