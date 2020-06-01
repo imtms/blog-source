@@ -10,7 +10,7 @@ date: 2020-06-01 15:50:00
 查阅了一圈资料发现，想用这货跑起debian需要自己编译内核外加使用u-boot来启动。
 说干就干
 
-###1. BootLoader的写入
+### 1. BootLoader的写入
 
 安装一些交叉编译的依赖库和软件
 
@@ -105,9 +105,9 @@ lsusb | grep Netchip
 Bus 00x Device 00y: ID 0525:a4a5 Netchip Technology, Inc. Pocketbook Pro 903
 ```
 
-###2. 系统的内核编译和写入
+### 2. 系统的内核编译和写入
 
-#####Linux Kernel
+##### Linux Kernel
 
 ```
 git clone https://github.com/RobertCNelson/armv7-lpae-multiplatform
@@ -116,7 +116,7 @@ cd armv7-lpae-multiplatform/
 ```
 这里要耗费大量时间来编译内核，以及缺少各种依赖库需要安装，大概三四个小时的时间。
 
-####RootFS
+#### RootFS
 
 首先选择系统，这里我选择的是Debian 10，当然也可以使用Ubuntu 20
 
