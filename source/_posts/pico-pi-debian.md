@@ -1,8 +1,8 @@
 ---
 title: 给Pico-Pi-I.MX7D安装Debian系统
+date: 2020-06-01 15:50:00
 categories: By TMs
 tags: [hardware]
-date: 2020-06-01 15:50:00
 ---
 
 手上有个闲置的PicoPI-I.MX7D，使用的是NXP的MCIMX7D7DVM10SC芯片，看了一下是ARM v7架构的，拥有512M内存和1G主频。虽然很鸡肋，但是好歹是个板子，不用又觉得浪费，于是想装一个Debian Linux上去跑跑小脚本用。
