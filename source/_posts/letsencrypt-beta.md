@@ -67,4 +67,4 @@ date: 2015-11-05 14:32:00
 
 折腾了两个多小时签发出第一张免费证书。letsencrypt还有很长的路要走啊。
 
-  [1]: https://cdn.tms.im/article/20181026/imgs/4.png
+  [1]: https://cdn.tms.qnxg.net/article/20181026/imgs/4.png

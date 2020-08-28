@@ -29,9 +29,9 @@ date: 2017-11-06 18:20:00
 # 完工
 看上去做工真的不错，顺便清理下风扇的灰尘。装回去声音小多了。
 
-  [1]: http://cdn.tms.im/article/20171106/1.jpg
-  [2]: http://cdn.tms.im/article/20171106/2.jpg
-  [3]: http://cdn.tms.im/article/20171106/3.jpg
-  [4]: http://cdn.tms.im/article/20171106/4.jpg
-  [5]: http://cdn.tms.im/article/20171106/5.jpg
-  [6]: http://cdn.tms.im/article/20171106/6.jpg
+  [1]: http://cdn.tms.qnxg.net/article/20171106/1.jpg
+  [2]: http://cdn.tms.qnxg.net/article/20171106/2.jpg
+  [3]: http://cdn.tms.qnxg.net/article/20171106/3.jpg
+  [4]: http://cdn.tms.qnxg.net/article/20171106/4.jpg
+  [5]: http://cdn.tms.qnxg.net/article/20171106/5.jpg
+  [6]: http://cdn.tms.qnxg.net/article/20171106/6.jpg
