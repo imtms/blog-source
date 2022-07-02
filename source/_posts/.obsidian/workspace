@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7b4f155e912693d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e43711fb07f998",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zabbix-mysql.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03164bf9033b36b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc3c0a8112ee9054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1114f369f67abb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05868e97766f2f91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3534f06bd23cf29c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad93dced9ffbc713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831923f7a952e385",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zabbix-mysql.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "92e43711fb07f998",
+  "lastOpenFiles": [
+    "zabbix-mysql.md",
+    "zabbix-windows.md",
+    "wapo-conf.md",
+    "Vultr-ticket.md",
+    "mysql-replicate-ignore.md",
+    "mysql-mistakes.md",
+    "mysql-master-slave.md",
+    "letsencrypt-beta.md",
+    "laravel-core.md",
+    "Jira-mysql.md"
+  ]
+}
