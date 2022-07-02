@@ -6,11 +6,25 @@
       {
         "id": "92e43711fb07f998",
         "type": "leaf",
+        "dimension": 64.25925925925927,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zabbix-mysql.md",
+            "file": "home-network.md",
             "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "5240a2539def084e",
+        "type": "leaf",
+        "dimension": 35.74074074074074,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "home-network.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zabbix-mysql.md",
+                "file": "home-network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +103,15 @@
   },
   "active": "92e43711fb07f998",
   "lastOpenFiles": [
-    "zabbix-mysql.md",
-    "zabbix-windows.md",
-    "wapo-conf.md",
-    "Vultr-ticket.md",
-    "mysql-replicate-ignore.md",
+    "home-network.md",
+    "centosci.md",
     "mysql-mistakes.md",
-    "mysql-master-slave.md",
-    "letsencrypt-beta.md",
-    "laravel-core.md",
-    "Jira-mysql.md"
+    "Singleton-pattern.md",
+    "about-evolution.md",
+    "arduino-nodemcu.md",
+    "1.md",
+    "first-aws-lambda.md",
+    "git-emoji.md",
+    "dhl-checkdigits.md"
   ]
 }
