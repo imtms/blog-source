@@ -1,8 +1,10 @@
 ---
-title: 2025医药投资展望：基于财务表现和研发创新的强生、葛兰素史克和默沙东比较分析
-categories: reading
+title: 2025医药投资展望：强生、葛兰素史克和默沙东比较
+categories: investment
 tags:
-  - investment
+  - jnj
+  - gsk
+  - mrk
 date: 2025-06-25 22:30:00
 ---
 
