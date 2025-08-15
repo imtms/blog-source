@@ -1,7 +1,8 @@
 ---
 title: 关于touch值不值得买
-categories: By TMs
-tags: [tech]
+categories: tech
+tags:
+  - tech
 date: 2016-06-04 22:30:00
 ---
 

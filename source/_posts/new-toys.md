@@ -1,7 +1,8 @@
 ---
 title: 新玩具
-categories: By TMs
-tags: [server]
+categories: tech
+tags:
+  - server
 date: 2015-10-14 19:17:00
 ---
 

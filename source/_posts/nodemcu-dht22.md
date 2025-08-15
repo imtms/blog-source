@@ -1,8 +1,10 @@
 ---
 title: 使用NodeMCU和AM2302(DHT22)制作的在线温湿度监控系统
 date: 2016-10-21 15:18:00
-categories: By TMs
-tags: [nodemcu,hardware]
+categories: tech
+tags:
+  - nodemcu
+  - hardware
 ---
 NodeMCU可以用了，而手头上还有一块AM2302(DHT22)的温湿度测量模块。于是就想折腾一个可以实时监控温湿度并且上传到服务器，存到数据库供随时查看变化的温湿度监控系统。
 

@@ -1,8 +1,9 @@
 ---
 title: 技术面试指南
 date: 2017-04-27 12:06:28
-categories: By TMs
-tags: [management]
+categories: code
+tags:
+  - management
 ---
 ## 面试流程
 通常我们的面试分为一次电话面试和一次现场面试。在少数难以决定的时候会多增加一轮电话或现场面试。

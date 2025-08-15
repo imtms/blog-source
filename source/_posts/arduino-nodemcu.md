@@ -1,8 +1,10 @@
 ---
 title: 采用Arduino IDE对ESP8266进行编程
 date: 2016-10-21 16:11:55
-categories: By TMs
-tags: [nodemcu,hardware]
+categories: tech
+tags:
+  - nodemcu
+  - hardware
 ---
 话说ESP8266真是个神奇的芯片，不仅可以使用NodeMCU和micropython等固件，还可以直接支持采用Arduino IDE环境进行编程和烧写。本身又有wifi和gpio，又便宜。简直是折腾神器。
 

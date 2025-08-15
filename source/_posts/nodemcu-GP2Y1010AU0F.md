@@ -1,8 +1,10 @@
 ---
 title: 采用NodeMCU和GP2Y1010AU0F检测空气质量
 date: 2016-10-21 15:50:41
-categories: By TMs
-tags: [nodemcu,hardware]
+categories: tech
+tags:
+  - nodemcu
+  - hardware
 ---
 夏普GP2Y1010AU0F传感器用于检测空气中的灰尘浓度。可以检测非常细小的灰尘，例如香烟烟雾（粒径0.1~2um）。
 该传感器中心有一个孔洞，可使空气自由穿过。内部有一个LED向孔洞进行照射。当空气中的灰尘穿过孔洞时，光线反射到接收端，通过放大电路将反射光强放大并转化为输出电压。通过测量输出电压并进行响应的换算，即可得知空气中灰尘的浓度。

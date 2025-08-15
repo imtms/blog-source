@@ -1,8 +1,9 @@
 ---
 title: Linux下TCP延迟确认(Delay ACK)机制
 date: 2017-05-15 15:18:17
-categories: By TMs
-tags: [linux]
+categories: code
+tags:
+  - linux
 ---
 本文的起因是周师傅早上突然问起为何本应四次挥手的TCP，抓包发现只有三个包，看图显示为客户端主动发送FIN的情况下，少了一个服务器对客户端的ACK回复，而是直接发送了FIN+ACK。
 

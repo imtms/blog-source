@@ -1,7 +1,8 @@
 ---
 title: 折腾Docker中
-categories: By TMs
-tags: [docker]
+categories: code
+tags:
+  - docker
 date: 2015-03-06 19:52:00
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: MP3文件隐写之Copyright位
-categories: By TMs
-tags: [ctf]
+categories: code
+tags:
+  - ctf
 date: 2021-03-30 18:43:00
 ---
 

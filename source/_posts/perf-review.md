@@ -1,8 +1,9 @@
 ---
 title: 工作的评价和反馈机制
 date: 2017-04-27 11:54:47
-categories: By TMs
-tags: [management]
+categories: reading
+tags:
+  - management
 ---
 ## 评价和反馈
 我们在每个季度结束时会进行一次 performance review，即工作的评价和反馈。流程一定程度上借鉴了 Google 的 performance review, 但有不少简化和修改，以避免给大家造成额外的负担，毕竟我们的主要精力应该放在改进产品而不是处理内部流程上。

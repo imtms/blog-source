@@ -1,7 +1,8 @@
 ---
 title: 组建研发团队之组织结构篇
-categories: By TMs
-tags: [tech]
+categories: reading
+tags:
+  - tech
 date: 2016-06-06 09:57:00
 ---
 

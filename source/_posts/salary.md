@@ -1,7 +1,8 @@
 ---
 title: 薪酬体系
-categories: By TMs
-tags: [management]
+categories: reading
+tags:
+  - management
 date: 2016-03-29 09:46:00
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: 给Pico-Pi-I.MX7D安装Debian系统
-categories: By TMs
-tags: [hardware]
+categories: tech
+tags:
+  - hardware
 date: 2020-06-01 15:50:00
 ---
 

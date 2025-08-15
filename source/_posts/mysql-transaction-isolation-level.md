@@ -1,8 +1,9 @@
 ---
 title: MYSQL事务隔离级别
-categories: By TMs
+categories: code
 date: 2016-12-05 16:59:08
-tags: [mysql]
+tags:
+  - mysql
 ---
 Mysql有四种事务隔离级别，分别是：
 Read Uncommitted

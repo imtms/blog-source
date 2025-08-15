@@ -1,7 +1,8 @@
 ---
 title: K2P B1版本刷梅林固件
-categories: By TMs
-tags: [hardware]
+categories: tech
+tags:
+  - hardware
 date: 2017-11-03 15:22:00
 ---
 

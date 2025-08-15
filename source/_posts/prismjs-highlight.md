@@ -1,7 +1,8 @@
 ---
 title: 利用prism.js实现代码高亮
-categories: By TMs
-tags: [html]
+categories: code
+tags:
+  - html
 date: 2015-08-14 15:56:00
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: 折腾斐讯K2刷LEDE
-categories: By TMs
-tags: [hardware]
+categories: tech
+tags:
+  - hardware
 date: 2017-02-22 16:45:21
 ---
 

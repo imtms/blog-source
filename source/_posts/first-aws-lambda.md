@@ -1,7 +1,8 @@
 ---
 title: 年轻人的第一个AWS Lambda函数
-categories: By TMs
-tags: [server]
+categories: code
+tags:
+  - server
 date: 2018-05-09 19:29:00
 ---
 

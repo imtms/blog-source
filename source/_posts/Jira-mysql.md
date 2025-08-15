@@ -1,7 +1,8 @@
 ---
 title: 迁移Jira的数据库到Mysql
-categories: By TMs
-tags: [server]
+categories: code
+tags:
+  - server
 date: 2018-07-04 12:15:20
 ---
 

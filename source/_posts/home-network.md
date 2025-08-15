@@ -1,7 +1,8 @@
 ---
 title: 家庭网络架构
-categories: By TMs
-tags: [network]
+categories: tech
+tags:
+  - network
 date: 2022-07-02 16:42:10
 ---
 

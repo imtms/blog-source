@@ -1,8 +1,9 @@
 ---
 title: 关于进化
 date: 2017-04-30 15:16:50
-categories: By TMs
-tags: [tech]
+categories: reading
+tags:
+  - tech
 ---
 以下为个人理解和读书笔记
 - 生物进化在尺寸、速度和能源消耗方面有计算机模拟无可比拟的优势，条件适合，一小时内可以产生出十亿个副本。

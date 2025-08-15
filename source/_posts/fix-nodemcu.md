@@ -1,7 +1,9 @@
 ---
 title: 折腾NodeMCU
-categories: By TMs
-tags: [nodemcu,hardware]
+categories: tech
+tags:
+  - nodemcu
+  - hardware
 date: 2016-10-21 14:46:59
 ---
 从淘宝买回来一个CP2102+ESP8266的小模块准备刷NodeMCU固件玩下，却发现插上电脑以后没有任何反应，本来应该电脑提示发现新硬件，但是试了多次均没有。

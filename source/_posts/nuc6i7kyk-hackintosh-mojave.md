@@ -1,7 +1,8 @@
 ---
 title: 骷髅峡谷(nuc6i7kyk)安装黑苹果(macOS Mojave 10.14.3)
-categories: By TMs
-tags: [hardware]
+categories: tech
+tags:
+  - hardware
 date: 2019-3-1 16:06:59
 ---
 

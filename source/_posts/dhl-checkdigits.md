@@ -1,7 +1,8 @@
 ---
 title: DHL用自己的check digits规范把我坑了一下
-categories: By TMs
-tags: [php]
+categories: code
+tags:
+  - php
 date: 2015-05-06 00:23:00
 ---
 

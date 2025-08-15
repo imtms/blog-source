@@ -1,7 +1,8 @@
 ---
 title: 跨IDC数据备份
-categories: By TMs
-tags: [server]
+categories: tech
+tags:
+  - server
 date: 2015-08-22 00:24:00
 ---
 

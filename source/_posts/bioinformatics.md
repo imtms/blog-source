@@ -1,7 +1,8 @@
 ---
 title: Bioinformatics
-categories: By TMs
-tags: [tech]
+categories: reading
+tags:
+  - tech
 date: 2016-05-27 22:22:00
 ---
 

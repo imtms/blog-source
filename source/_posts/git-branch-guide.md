@@ -1,7 +1,8 @@
 ---
 title: 代码分支管理指南
-categories: By TMs
-tags: [management]
+categories: code
+tags:
+  - management
 date: 2017-04-27 11:58:05
 ---
 ## 介绍

@@ -1,7 +1,8 @@
 ---
 title: 骷髅峡谷拆机
-categories: By TMs
-tags: [hardware]
+categories: tech
+tags:
+  - hardware
 date: 2017-11-06 18:20:00
 ---
 
