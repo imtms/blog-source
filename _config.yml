@@ -1,7 +1,11 @@
 title: TMs
-subtitle: null
-description: null
+subtitle: 技术、投资与生活实践
+description: TMs 的技术、投资与生活实践笔记
 author: TMs
+keywords:
+  - 技术
+  - 投资
+  - 个人博客
 language: zh-CN
 timezone: Asia/Shanghai
 url: 'https://blog.tms.im/'
@@ -15,8 +19,6 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: ':lang'
-skip_render: 
-  - "page/**"
 new_post_name: ':title.md'
 default_layout: post
 titlecase: false
@@ -26,6 +28,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+updated_option: date
 highlight:
   enable: true
   line_number: true

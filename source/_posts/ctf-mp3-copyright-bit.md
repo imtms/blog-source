@@ -8,7 +8,7 @@ date: 2021-03-30 18:43:00
 
 最近在帮人做CTF的时候遇到一道有意思的题目，记录一下思维过程。
 
-题目整个只有一个MP3文件的附件。[下载](http://cdn.tms.qnxg.net/article/20210402/2.zip)
+题目整个只有一个MP3文件的附件。[下载](https://cdn.tms.qnxg.net/article/20210402/2.zip)
 
 ## 0x01
 

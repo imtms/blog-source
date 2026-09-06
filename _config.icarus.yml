@@ -1,251 +1,97 @@
-# Version of the configuration file
 version: 5.1.0
-# Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
-# Path or URL to the website's logo
-logo: https://cdn.tms.im/cdn/images/avatar.jpg
-# Page metadata configurations
-head:
-    # URL or path to the website's icon
-    favicon: https://tms.im/favicon-32x32.png
-    # Web application manifests configuration
-    # https://developer.mozilla.org/en-US/docs/Web/Manifest
-    manifest:
-        # Name of the web application (default to the site title)
-        name: TMs
-        # The displayed name of the web application
-        # when there is not enough space to display full name
-        short_name: TMs
-        # The start URL of the web application
-        start_url: 
-        # The default theme color for the application
-        theme_color: 
-        # A placeholder background color for the application page to display
-        # before its stylesheet is loaded
-        background_color: 
-        # The preferred display mode for the website
-        display: standalone
-        # Image files that can serve as application icons for different contexts
-        icons:
-            -
-                # The path to the image file
-                src: ''
-                # A string containing space-separated image dimensions
-                sizes: ''
-                # A hint as to the media type of the image
-                type: 
-    # Open Graph metadata
-    # https://hexo.io/docs/helpers.html#open-graph
-    open_graph:
-        # Page title (og:title) (optional)
-        # You should leave this blank for most of the time
-        title: 
-        # Page type (og:type) (optional)
-        # You should leave this blank for most of the time
-        type: blog
-        # Page URL (og:url) (optional)
-        # You should leave this blank for most of the time
-        url: 
-        # Page cover (og:image) (optional)
-        # You should leave this blank for most of the time
-        image: 
-        # Site name (og:site_name) (optional)
-        # You should leave this blank for most of the time
-        site_name: 
-        # Page author (article:author) (optional)
-        # You should leave this blank for most of the time
-        author: 
-        # Page description (og:description) (optional)
-        # You should leave this blank for most of the time
-        description: 
-        # Twitter card type (twitter:card)
-        twitter_card: 
-        # Twitter ID (twitter:creator)
-        twitter_id: 
-        # Twitter Site (twitter:site)
-        twitter_site: 
-        # Google+ profile link (deprecated)
-        google_plus: 
-        # Facebook admin ID
-        fb_admins: 
-        # Facebook App ID
-        fb_app_id: 
-    # Structured data of the page
-    # https://developers.google.com/search/docs/guides/intro-structured-data
-    structured_data:
-        # Page title (optional)
-        # You should leave this blank for most of the time
-        title: 
-        # Page description (optional)
-        # You should leave this blank for most of the time
-        description: 
-        # Page URL (optional)
-        # You should leave this blank for most of the time
-        url: 
-        # Page author (article:author) (optional)
-        # You should leave this blank for most of the time
-        author: 
-        # Page publisher (optional)
-        # You should leave this blank for most of the time
-        publisher: 
-        # Page publisher logo (optional)
-        # You should leave this blank for most of the time
-        publisher_logo: 
-        # Page images (optional)
-        # You should leave this blank for most of the time
-        image: 
-    # Additional HTML meta tags in an array
-    meta:
-        # Meta tag specified in <attribute>=<value> style
-        # E.g., name=theme-color;content=#123456 => <meta name="theme-color" content="#123456">
-        - ''
-    # URL or path to the website's RSS atom.xml
-    rss: 
-# Page top navigation bar configurations
-navbar:
-    # Navigation menu items
-    menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: https://tms.im
-    # Links to be shown on the right of the navigation bar
-    links:
-        Download on GitHub:
-            icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
-# Article related configurations
-article:
-    # Code highlight settings
-    highlight:
-        # Code highlight themes
-        # https://github.com/highlightjs/highlight.js/tree/master/src/styles
-        theme: atom-one-light
-        # Show copy code button
-        clipboard: true
-        # Default folding status of the code blocks. Can be "", "folded", "unfolded"
-        fold: unfolded
-    # Whether to show estimated article reading time
-    readtime: true
-    # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
-    update_time: true
-    # Article licensing block
-    licenses:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: https://creativecommons.org/
-        Attribution:
-            icon: fab fa-creative-commons-by
-            url: https://creativecommons.org/licenses/by/4.0/
-        Noncommercial:
-            icon: fab fa-creative-commons-nc
-            url: https://creativecommons.org/licenses/by-nc/4.0/
-# Search plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
-search:
-    type: insight
-    # Whether to include pages in the search results
-    index_pages: true
-# Comment plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-comment:
-    type: disqus
-    # Disqus shortname
-    shortname: 'xtms'
-# http://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/
-widgets:
-    # Profile widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: profile
-        # Author name
-        author: TMs
-        # Author's current location
-        location: Earth
-        # URL or path to the avatar image
-        avatar: https://cdn.tms.im/cdn/images/avatar.jpg
-        # Whether show the rounded avatar image
-        avatar_rounded: false
+logo: /TMs.png
 
-    # Table of contents widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: toc
-        # Whether to show the index of each heading
-        index: true
-        # Whether to collapse sub-headings when they are out-of-view
-        collapsed: true
-        # Maximum level of headings to show (1-6)
-        depth: 3
-    # Recommendation links widget configurations
-    # Categories widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: categories
-    # Recent posts widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: recent_posts
-    # Archives widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: archives
-    # Tags widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: tags
-        # How to order tags. For example 'name' to order by name in ascending order, and '-length' to order by number of posts in each tags in descending order
-        order_by: name
-        # Amount of tags to show. Will show all if not set.
-        amount: 
-        # Whether to show tags count, i.e. number of posts in the tag.
-        show_count: true
-    # Google FeedBurner email subscription widget configurations
-# Plugin configurations
-# https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/
+head:
+  favicon: /favicon.ico
+  manifest:
+    name: TMs
+    short_name: TMs
+    start_url: /
+    theme_color: '#f7f8fa'
+    background_color: '#f7f8fa'
+    display: standalone
+    icons:
+      - src: /favicon.ico
+        sizes: 32x32
+        type: image/x-icon
+  open_graph:
+    image: /TMs.png
+    site_name: TMs
+    author: TMs
+    twitter_card: summary_large_image
+  structured_data:
+    publisher: TMs
+    publisher_logo: /TMs.png
+  meta:
+    - name=theme-color;content=#f7f8fa
+  rss: null
+
+navbar:
+  menu:
+    首页: /
+    归档: /archives
+    分类: /categories
+    标签: /tags
+    关于: https://tms.im
+  links:
+    博客源码:
+      icon: fab fa-github
+      url: https://github.com/imtms/blog-source
+
+article:
+  highlight:
+    theme: atom-one-light
+    clipboard: true
+    fold: unfolded
+  readtime: true
+  update_time: auto
+  licenses:
+    Creative Commons:
+      icon: fab fa-creative-commons
+      url: https://creativecommons.org/
+    Attribution:
+      icon: fab fa-creative-commons-by
+      url: https://creativecommons.org/licenses/by/4.0/
+    Noncommercial:
+      icon: fab fa-creative-commons-nc
+      url: https://creativecommons.org/licenses/by-nc/4.0/
+
+search:
+  type: insight
+  index_pages: true
+
+comment:
+  type: disqus
+  shortname: xtms
+
+sidebar:
+  right:
+    sticky: true
+
+widgets:
+  - position: left
+    type: profile
+    author: TMs
+    location: Earth
+    avatar: /TMs.png
+    avatar_rounded: false
+  - position: left
+    type: categories
+  - position: left
+    type: recent_posts
+
 plugins:
-    # Enable page startup animations
-    animejs: true
-    # Show the "back to top" button
-    back_to_top: true
-    # Baidu Analytics plugin settings
-    # https://tongji.baidu.com
-    
-    # Enable the lightGallery and Justified Gallery plugins
-    gallery: true
-    # Google Analytics plugin settings
-    # https://analytics.google.com
-    google_analytics:
-        # Google Analytics tracking ID
-        tracking_id: 
-    # Hotjar user feedback plugin
-    # https://www.hotjar.com/
-    # Enable the KaTeX math typesetting support
-    # https://katex.org/
-    katex: false
-    # Enable the MathJax math typesetting support
-    # https://www.mathjax.org/
-    mathjax: false
-    # Enable the Outdated Browser plugin
-    # http://outdatedbrowser.com/
-    outdated_browser: false
-    # Enable PJAX
-    pjax: true
-    # Show a progress bar at top of the page on page loading
-    progressbar: true
-# CDN provider settings
-# https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
+  animejs: false
+  back_to_top: true
+  gallery: true
+  katex: false
+  mathjax: false
+  outdated_browser: false
+  pjax: false
+  progressbar: false
+
 providers:
-    # Name or URL template of the JavaScript and/or stylesheet CDN provider
-    cdn: jsdelivr
-    # Name or URL template of the webfont CDN provider
-    fontcdn: google
-    # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+  cdn: jsdelivr
+  fontcdn: /css/fonts.css
+  iconcdn: fontawesome

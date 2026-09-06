@@ -1,0 +1,7 @@
+toc: true
+widgets:
+  - position: right
+    type: toc
+    index: false
+    collapsed: true
+    depth: 3
